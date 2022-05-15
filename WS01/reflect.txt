@@ -1,10 +1,10 @@
 *****************************************************************************
                               Reflection
                              Workshop - #1
-Full Name  : 
-Student ID#: 
-Email      : 
-Section    : 
+Full Name  : - Harsh
+Student ID#: 167194216
+Email      : h39@myseneca.ca
+Section    : NJJ
 
 Authenticity Declaration:
 I declare this submission is the result of my own work and has not been
@@ -12,3 +12,14 @@ shared with any other student or 3rd party content provider. This submitted
 piece of work is entirely of my own creation.
 *****************************************************************************
 
+Question1 : What you have learned in completing this workshop (do not leave anything out!)
+
+Answer1 :I In this workshop, most importantly I learnt how to code and also after doing this workshop I found how easy is coding . i learnt how to use printf command, escape sequences and a lot . Also by doing this workshop , I found that c is a case sensitive language and I always have to be careful about uppercase and lowercase letters and also spacing between them else I will sendup with a lot of errors in my code.
+
+Question2 : Briefly describe what SSH is and how you used it in this workshop
+
+Answer2 : SSH  is an application through which we can share files between 2 computers securely. As I have MacBook , and there is an   in-built ssh appllication in MacBook name “terminal”. So I used it. For using ssh , first I connected my MacBook to global protect vpn and then logged into my matrix account using Seneca username and password. After that, I created 2 folders to save my coding program using SFTP application and then compiled and ran my program successfully in it . And at last , submitted my program to professor using terminal.
+
+Question3 :  Briefly describe what SFTP is and how you used it in this workshop
+
+Answer3 : SFTP is an application which is used to safely transfer a file from a computer to  an SSH application . As I have MacBook, so I used SFTP application (File Zilla). First I logged in By Seneca Username and Password . Then I opened the folder created in matrix account in it and dragged and dropped my coding file from computer to the folder .
